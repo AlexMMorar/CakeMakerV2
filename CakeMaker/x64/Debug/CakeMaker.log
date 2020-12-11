@@ -1,0 +1,10 @@
+﻿  Cake.cpp
+  CakeMaker.cpp
+  CarouselOfCakes.cpp
+D:\Work\CakeMakerV2\CakeMaker\CarouselOfCakes.cpp(29,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  CommandPanel.cpp
+  CommandTaker.cpp
+  main.cpp
+  RecipeCake.cpp
+  Generating Code...
+  CakeMaker.vcxproj -> D:\Work\CakeMakerV2\x64\Debug\CakeMaker.exe

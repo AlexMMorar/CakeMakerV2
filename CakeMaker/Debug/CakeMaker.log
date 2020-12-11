@@ -1,0 +1,5 @@
+﻿  CakeMaker.cpp
+  CarouselOfCakes.cpp
+D:\Work\C++\CakeMaker_v1\CakeMaker\CakeMaker\CarouselOfCakes.cpp(9,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CakeMaker.vcxproj -> D:\Work\C++\CakeMaker_v1\CakeMaker\Debug\CakeMaker.exe
